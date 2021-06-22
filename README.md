@@ -1,3 +1,3 @@
 # Onboarding
 Onboarding
-Custom image, custom indicators
+https://github.com/BBFEdroid/Onboarding/issues/1
